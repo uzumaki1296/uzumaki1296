@@ -10,8 +10,13 @@ I'm a solution-driven professional with almost 3 years of industry experience as
 *   ✉️  You can contact me at [tkulkar1@binghamton.edu](mailto:tkulkar1@binghamton.edu)
 *   🧠  I'm learning TensorFlow, AWS
 *   🤝  I'm open to collaborating on Data Analytics and Cloud projects
-*   ⚡  Modern Family - S4:E2 - 20:59<a href="https://www.github.com/uzumaki1296" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/uzumaki1296?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   ⚡  Modern Family - S4:E2 - 20:59
+
+<a href="https://www.twitter.com/tkulkar1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/tkulkar1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  
+### Skills
+
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
