@@ -1,7 +1,3 @@
-
-
-https://github.com/uzumaki1296/uzumaki1296/assets/127061212/7e6b993f-8c0d-4525-b549-adc5908d04c7
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanmayee Kulkarni
 =========================================================================================================================================
 
@@ -29,10 +25,10 @@ I'm a solution-driven professional with almost 3 years of industry experience as
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://discord.com/users/Savani#7610" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
