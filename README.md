@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Tanmayee Kulkarni 
 =========================================================================================================================================
 
-FullStack Developer
+Full-stack Developer
 ----------------- 
 
 I'm a solution-driven professional with almost 3 years of industry experience as a Senior Software Engineer in SAP Governance Risk and Compliance (GRC), software development for web applications, and database systems. I believe that despite the fact that talents are merely a tool for giving shape to your solution, occasionally the effects of several tools on the same solution can be very different.
