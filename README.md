@@ -3,21 +3,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Tanmayee Kulkarni 
 =========================================================================================================================================
 
-Full-stack Developer
+Full-Stack Developer
 ----------------- 
 
-I'm a solution-driven professional with almost 3 years of industry experience as a Senior Software Engineer in SAP Governance Risk and Compliance (GRC), software development for web applications, and database systems. I believe that despite the fact that talents are merely a tool for giving shape to your solution, occasionally the effects of several tools on the same solution can be very different.
+Welcome to my Github profile! I'm a passionate cloud enthusiast and full-stack software engineer with a solid academic foundation and hands-on experience in the dynamic world of technology. 
+In my career, I've had the opportunity to dive deep into cloud computing, leveraging its transformative power to build scalable, resilient, and high-performance solutions. My journey as a full-stack software engineer has been marked by a commitment to innovation and a relentless pursuit of excellence in creating end-to-end applications. 
+I'm a firm believer in the continuous learning journey that technology demands. Whether it's exploring the latest cloud services, staying updated on industry trends, or contributing to open-source projects, I thrive on expanding my knowledge base.
+As I navigate the ever-evolving tech landscape, I aspire to contribute meaningfully to projects that push the boundaries of what's possible. I'm excited about the intersection of cloud computing, artificial intelligence, and data analytics, and I look forward to shaping the future of technology through impactful software solutions.
 
-*   🌍  I'm based in New York
-*   ✉️  You can contact me at kulkarnitanmayee1296@gmail.com
-*   🧠  Currently learning Spring MVC, Hibernate JPA, AWS
-*   🤝  I'm open to collaborating on Data Analytics and Cloud projects
-*   ⚡  Modern Family - S4:E2 - 20:59
+
+*   👩🏻‍🎓  Master's in Computer Science - SUNY Binghamton(May'23).
+*   🚀  Senior Software Engineer at Capgemini Technologies Ltd.
+*   🌍  Based in New York, USA.
+*   🧠  Currently learning ReactJS, Rust.
+*   🤝  Open to collaborating on Cloud, AI/ML & Data Analytics projects.
+*   ✉️  You can contact me at kulkarnitanmayee1296@gmail.com.
+*   ⚡  Modern Family - S4:E2 - 20:59.
 
 <a href="https://www.twitter.com/tkulkar1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/tkulkar1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 
+I specialize in designing and implementing cloud-native architectures, utilizing platforms like AWS and Azure. My proficiency extends across the entire software development lifecycle, from conceptualization and coding to testing, deployment, and maintenance. My tech stack includes but is not limited to:
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
