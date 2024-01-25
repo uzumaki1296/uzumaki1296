@@ -13,7 +13,7 @@ As I navigate the ever-evolving tech landscape, I aspire to contribute meaningfu
 
 
 *   👩🏻‍🎓  Master's in Computer Science - SUNY Binghamton(May'23).
-*   🚀  Senior Software Engineer at Capgemini Technologies Ltd.
+*   🚀  Software Engineer at Alltech, Inc.
 *   🌍  Based in New York, USA.
 *   🧠  Currently learning ReactJS, Rust.
 *   🤝  Open to collaborating on Cloud, AI/ML & Data Analytics projects.
