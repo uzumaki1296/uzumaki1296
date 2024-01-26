@@ -25,7 +25,7 @@ As I navigate the ever-evolving tech landscape, I aspire to contribute meaningfu
                   
 ### Skills
 
-I specialize in designing and implementing cloud-native architectures, utilizing platforms like AWS and Azure. My proficiency extends across the entire software development lifecycle, from conceptualization and coding to testing, deployment, and maintenance. My tech stack includes but is not limited to:
+I specialize in designing and implementing cloud-native architectures, utilizing platforms like AWS and GCP. My proficiency extends across the entire software development lifecycle, from conceptualization and coding to testing, deployment, and maintenance. My tech stack includes but is not limited to:
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
