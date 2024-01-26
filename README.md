@@ -7,8 +7,9 @@ Full-Stack Developer
 ----------------- 
 
 Welcome to my Github profile!👩🏻‍💻
-<br>I'm a passionate cloud enthusiast and full-stack software engineer with a solid academic foundation and hands-on experience in the dynamic world of technology. <br>
-In my career, I've had the opportunity to dive deep into cloud computing, leveraging its transformative power to build scalable, resilient, and high-performance solutions. My journey as a full-stack software engineer has been marked by a commitment to innovation and a relentless pursuit of excellence in creating end-to-end applications. <br>
+<p>
+<br>I'm a passionate cloud enthusiast and full-stack software engineer with a solid academic foundation and hands-on experience in the dynamic world of technology. 
+<br>In my career, I've had the opportunity to dive deep into cloud computing, leveraging its transformative power to build scalable, resilient, and high-performance solutions. My journey as a full-stack software engineer has been marked by a commitment to innovation and a relentless pursuit of excellence in creating end-to-end applications. <br></p>
 <p>I'm a firm believer in the continuous learning journey that technology demands. Whether it's exploring the latest cloud services, staying updated on industry trends, or contributing to open-source projects, I thrive on expanding my knowledge base. <br>
 As I navigate the ever-evolving tech landscape, I aspire to contribute meaningfully to projects that push the boundaries of what's possible. I'm excited about the intersection of cloud computing, artificial intelligence, and data analytics, and I look forward to shaping the future of technology through impactful software solutions.</p>
 
