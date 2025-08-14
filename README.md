@@ -13,10 +13,10 @@ As I navigate the ever-evolving tech landscape, I aspire to contribute meaningfu
 
 
 *   👩🏻‍🎓  Master's in Computer Science - SUNY Binghamton(May'23).
-*   🚀  Software Engineer at Alltech, Inc.
+*   🚀  Senior Software Engineer at HSBC Holdings, PLC.
 *   🌍  Based in New York, USA.
-*   🧠  Currently learning ReactJS, Rust.
-*   🤝  Open to collaborating on Cloud, AI/ML & Data Analytics projects.
+*   🧠  Currently learning LLMs.
+*   🤝  Open to collaborating on Cloud & AI/ML projects.
 *   ✉️  You can contact me at kulkarnitanmayee1296@gmail.com.
 *   ⚡  Modern Family - S4:E2 - 20:59.
 
