@@ -3,7 +3,7 @@ Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <br>Welcome to my Github profile!👩🏻‍💻
 =========================================================================================================================================
 
-Full-Stack & Gen-AI Developer
+Full-Stack & GenAI Developer
 ----------------- 
 <p>
 I'm a passionate cloud enthusiast and full-stack software engineer with a solid academic foundation and hands-on experience in the dynamic world of technology. 
